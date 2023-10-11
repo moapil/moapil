@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Formada em Desenvolvimento de Sistemas pela escola SESI<br>Formada em Mecânica Industrial pelo Senai<br><br>Faculdade de Engenharia Mecânica
+Formada em Desenvolvimento de Sistemas pela escola SESI<br>Formada em Mecânica Industrial pelo Senai<br><br>Futura Engenheira Mecânica
 
 
 ## 🌐 Instagram:
