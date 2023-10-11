@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+<p align="center"># 💫 Sobre mim:
 Formada em Desenvolvimento de Sistemas pela escola SESI<br>Formada em Mecânica Industrial pelo Senai<br><br>Faculdade de Engenharia Mecânica
 
 
@@ -15,4 +15,4 @@ Formada em Desenvolvimento de Sistemas pela escola SESI<br>Formada em Mecânica 
 ### 🔝 Repositórios contribuintes
 ![](https://github-contributor-stats.vercel.app/api?username=moapil&limit=5&theme=onestar&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --></p>
