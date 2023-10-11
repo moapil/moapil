@@ -1,18 +1,11 @@
-<p align="center"># 💫 Sobre mim:
-Formada em Desenvolvimento de Sistemas pela escola SESI<br>Formada em Mecânica Industrial pelo Senai<br><br>Faculdade de Engenharia Mecânica
-
-
-## 🌐 Instagram:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anaorsii) 
-
-# 💻 Programo em:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 Status do Git Hub:
-![](https://github-readme-stats.vercel.app/api?username=moapil&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=moapil&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moapil&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Repositórios contribuintes
-![](https://github-contributor-stats.vercel.app/api?username=moapil&limit=5&theme=onestar&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --></p>
+<div align="center">
+<!-- <a href="https://discord.com/users/641442847962431498" > -->
+  <a href="https://thicc-thighs.de/" >
+   <img src="https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+  </a>
+    <br>
+  <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
+𝑒</p>
+<p><a href="https://www.youtube.com/watch?v=CFlhlZbeKgE">- 𝒯𝐸𝒦𝒦𝒩𝒪 𝒯𝑅𝒜𝐼𝒩 - 𝐸𝓁𝑒𝒸𝓉𝓇𝒾𝒸 𝒞𝒶𝓁𝓁𝒷𝑜𝓎</a><p>
+  
+</div>
