@@ -1,5 +1,4 @@
-![Infos](https://metrics.lecoq.io/moapil?template=classic&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSao_Paulo)
-</br></br>
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=moapil&theme=monokai&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moapil&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
