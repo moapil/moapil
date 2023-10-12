@@ -1,4 +1,4 @@
-![Infos](https://metrics.lecoq.io/moapil?template=classic&base.hireable=true&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&config.timezone=America%2FSao_Paulo)
+![Infos](https://metrics.lecoq.io/moapil?template=classic&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=America%2FSao_Paulo)
 </br></br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=moapil&theme=monokai&hide_border=false)
