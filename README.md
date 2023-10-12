@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/moapil?template=classic&base.hireable=true&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&config.timezone=America%2FSao_Paulo)
+![Infos](https://metrics.lecoq.io/moapil?template=classic&base.hireable=true&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&config.timezone=America%2FSao_Paulo)
 </br></br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=moapil&theme=monokai&hide_border=false)
@@ -8,5 +8,4 @@
 
 <hr>
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=22x2cljssybwsu7umkotlfs3y&width=1000&count=3)](https://open.spotify.com/user/22x2cljssybwsu7umkotlfs3y)
-
+[![Tocados recentemente](https://spotify-recently-played-readme.vercel.app/api?user=22x2cljssybwsu7umkotlfs3y&width=1000&count=3)](https://open.spotify.com/user/22x2cljssybwsu7umkotlfs3y)
