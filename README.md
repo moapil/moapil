@@ -14,3 +14,5 @@ Formada em Desenvolvimento de Sistemas pela escola SESI<br>Formada em Mecânica 
 
 ---
 
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=22x2cljssybwsu7umkotlfs3y&width=1000&count=3)](https://open.spotify.com/user/22x2cljssybwsu7umkotlfs3y)
+
