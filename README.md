@@ -23,8 +23,6 @@
 
 <hr></div>
 
-<img align="right" height="220em" src="https://i.pinimg.com/originals/1e/98/b3/1e98b30a51853928731feea866258107.png"/>
-
 [![Tocados recentemente](https://spotify-recently-played-readme.vercel.app/api?user=22x2cljssybwsu7umkotlfs3y&width=600&count=3)](https://open.spotify.com/user/22x2cljssybwsu7umkotlfs3y) 
 
 
