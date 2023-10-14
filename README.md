@@ -21,8 +21,13 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-<hr>
+<hr></div>
 
-[![Tocados recentemente](https://spotify-recently-played-readme.vercel.app/api?user=22x2cljssybwsu7umkotlfs3y&width=1000&count=3)](https://open.spotify.com/user/22x2cljssybwsu7umkotlfs3y)
+<img align="right" height="220" src="https://i.pinimg.com/originals/1e/98/b3/1e98b30a51853928731feea866258107.png"/>
 
-</div>
+[![Tocados recentemente](https://spotify-recently-played-readme.vercel.app/api?user=22x2cljssybwsu7umkotlfs3y&width=770&count=3)](https://open.spotify.com/user/22x2cljssybwsu7umkotlfs3y) 
+
+
+
+
+
