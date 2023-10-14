@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/641442847962431498?theme=dark&bg=FFFFFF00&animated=true&borderRadius=30px&idleMessage=Mitski%20te%20amo&hideTimestamp=false)](https://discord.com/users/641442847962431498)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/641442847962431498?theme=dark&bg=FFFFFF00&animated=true&borderRadius=30px&idleMessage=city%20of%20stars&hideTimestamp=false)](https://discord.com/users/641442847962431498)
 
 <hr>
 
