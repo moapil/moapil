@@ -1,11 +1,11 @@
 <div align="center">
   
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/641442847962431498?theme=light&bg=FFFFFF00&animated=true&borderRadius=30px&idleMessage=city%20of%20stars&hideTimestamp=false)](https://discord.com/users/641442847962431498)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/641442847962431498?theme=dark&bg=FFFFFF00&animated=true&borderRadius=30px&idleMessage=city%20of%20stars&hideTimestamp=false)](https://discord.com/users/641442847962431498)
 
 <hr>
 
-<img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=moapil&theme=swift&hide_border=true&background=FFFFFF00"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moapil&theme=swift&nclude_all_commits=false&count_private=false&layout=donut&hide_border=true&bg_color=00000000"/>
+<img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=moapil&theme=dracula&hide_border=true&background=FFFFFF00"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moapil&theme=dracula&nclude_all_commits=false&count_private=false&layout=donut&hide_border=true&bg_color=00000000"/>
 <br>
 <br>
 
