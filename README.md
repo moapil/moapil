@@ -4,8 +4,7 @@
 
 <hr>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=moapil&theme=monokai&nclude_all_commits=false&hide_border=true&bg_color=00000000"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moapil&theme=monokai&nclude_all_commits=false&count_private=false&layout=donut&hide_border=true&bg_color=00000000"/>
+<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moapil&theme=dark&nclude_all_commits=false&count_private=false&layout=compact&hide_border=true&bg_color=00000000"/>
 <br>
 <br>
 
