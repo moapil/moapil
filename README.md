@@ -4,10 +4,12 @@
 
 <hr>
 
-<img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=moapil&theme=monokai&hide_border=true&background=FFFFFF00"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=moapil&theme=monokai&nclude_all_commits=false&hide_border=true&bg_color=00000000"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moapil&theme=monokai&nclude_all_commits=false&count_private=false&layout=donut&hide_border=true&bg_color=00000000"/>
 <br>
 <br>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
